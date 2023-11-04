@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-RUN echo "Hello World!" > /usr/share/nginx/html/index.html
+RUN echo "Welcome to InstaFido" > /usr/share/nginx/html/index.html
